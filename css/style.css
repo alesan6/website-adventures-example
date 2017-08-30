@@ -1,0 +1,71 @@
+body {
+    font-family: 'Gentium Book Basic', serif;
+}
+
+#background-1 {
+    background-image: url("../img/back1.jpeg");
+    background-repeat: round;
+    margin-top: 30px;
+}
+
+#welcome {
+    color: #870101;
+    font-family: fantasy;
+}
+
+.quote {
+    color: #870101;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.carousel-inner h2 {
+    color: #870101;
+    font-weight: bold;
+}
+
+.colorFont {
+    color: #870101;
+    font-weight: bold;
+}
+
+#hideContent {
+    background-color: #C8B375;
+}
+
+.error-message {
+ color : #ed2553;
+}
+
+.success-message {
+ color: #3D9970;
+}
+
+footer {
+    background-color: #343A40;
+    color: white;
+}
+
+.flickr {
+  background-image: url("../img/flickr.png");
+  height: 35px;
+  width: 35px;
+}
+
+.vimeo {
+  background-image: url("../img/vimeo.png");
+  height: 35px;
+  width: 35px;
+}
+
+.pinterest {
+  background-image: url("../img/pinterest.png");
+  height: 35px;
+  width: 35px;
+}
+
+.twitter {
+  background-image: url("../img/twitter.png");
+  height: 35px;
+  width: 35px;
+}
